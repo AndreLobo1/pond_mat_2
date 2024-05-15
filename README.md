@@ -49,6 +49,7 @@ Abaixo apresentamos as tabelas verdade referentes aos itens (I), (II) e (III) do
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p \land q)$ é equivalente a $\neg p \lor \neg q$.
 <br>
+<br>
 
 (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$
 
@@ -61,6 +62,7 @@ Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p \lor q)$ é equivalente a $\neg p \land \neg q$.
 <br>
+<br>
 
 (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$
 
@@ -72,6 +74,7 @@ Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p
 | F | F | V        | V        | V                 | V                           | V                                                              |
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $p \rightarrow q$ é equivalente a $\neg q \rightarrow \neg p$.
+<br>
 <br>
 
 ### Item B
@@ -87,5 +90,6 @@ $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 
 Como podemos ver, a coluna final é toda falsa, o que confirma que $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$ é uma contradição.
 <br>
+<br>
 
-Através desta atividade, conseguimos explorar a lógica proposicional e suas aplicações em detalhes. As tabelas verdade provaram ser uma ferramenta eficaz para provar equivalências e contradições. Esta atividade nos permitiu aprofundar nosso entendimento dos princípios fundamentais da lógica e como eles se aplicam a várias disciplinas. Esperamos que este repositório satisfaça corretamente a atividade avaliativa .
+Através desta atividade, conseguimos explorar a lógica proposicional e suas aplicações em detalhes. As tabelas verdade provaram ser uma ferramenta eficaz para provar equivalências e contradições. Esta atividade nos permitiu aprofundar nosso entendimento dos princípios fundamentais da lógica e como eles se aplicam a várias disciplinas. Esperamos que este repositório satisfaça corretamente a atividade avaliativa.
