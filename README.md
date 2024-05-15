@@ -19,9 +19,13 @@ Experimente clicar em um tópico para ser direcionado a ele!
 As questões que foram propostas são as seguintes:
 
 A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e (II) são as leis de DeMorgan e têm particular importância na computação.
+<br>
     - (I) $\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$  
+    <br>
     - (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$ 
+    <br>
     - (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$ 
+    <br>
 
 B. Também utilizando tabelas verdade, prove que a expressão a seguir é uma contradição.
     - $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
@@ -42,7 +46,7 @@ Abaixo apresentamos as tabelas verdade referentes aos itens (I), (II) e (III) do
 | F | F | V        | V        | F           | V                  | V                    | V                                                   |
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p \land q)$ é equivalente a $\neg p \lor \neg q$.
-
+<br>
 
 (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$
 
@@ -54,6 +58,7 @@ Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p
 | F | F | V        | V        | F          | V                 | V                      | V                                                    |
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p \lor q)$ é equivalente a $\neg p \land \neg q$.
+<br>
 
 (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$
 
@@ -65,6 +70,7 @@ Como podemos ver, a coluna final é toda verdadeira, o que confirma que $\neg (p
 | F | F | V        | V        | V                 | V                           | V                                                              |
 
 Como podemos ver, a coluna final é toda verdadeira, o que confirma que $p \rightarrow q$ é equivalente a $\neg q \rightarrow \neg p$.
+<br>
 
 ### Item B
 
@@ -78,5 +84,6 @@ $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 | F | F | V        | F           | V                      | F                                                    |
 
 Como podemos ver, a coluna final é toda falsa, o que confirma que $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$ é uma contradição.
+<br>
 
 Através desta atividade, conseguimos explorar a lógica proposicional e suas aplicações em detalhes. As tabelas verdade provaram ser uma ferramenta eficaz para provar equivalências e contradições. Esta atividade nos permitiu aprofundar nosso entendimento dos princípios fundamentais da lógica e como eles se aplicam a várias disciplinas. Esperamos que este repositório satisfaça corretamente a atividade avaliativa .
