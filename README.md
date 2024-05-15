@@ -21,7 +21,6 @@ As questões que foram propostas são as seguintes:
 A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e (II) são as leis de DeMorgan e têm particular importância na computação.
 <br>
     - (I) $\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$  
-    <br>
     - (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$ 
     <br>
     - (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$ 
