@@ -22,18 +22,18 @@ Este repositório é dedicado à atividade avaliativa de lógica proposicional, 
 As questões que foram propostas são as seguintes:
 
 1. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e (II) são as leis de DeMorgan e têm particular importância na computação.
-    - (I) $$\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$$  
-    - (II) $$\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$$ 
-    - (III) $$p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$$ 
+    - (I) $\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$  
+    - (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$ 
+    - (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$ 
 
 2. Também utilizando tabelas verdade, prove que a expressão a seguir é uma contradição.
-    - $$(p \land q) \Leftrightarrow (p \rightarrow \neg q)$$
+    - $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 
 ## Resoluções
 
 ### Item A
 
-(I) $$\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$$
+(I) $\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$
 
 | p | q | ¬p | ¬q | p∧q | ¬(p∧q) | ¬p∨¬q | ¬(p∧q)↔¬p∨¬q |
 |---|---|----|----|-----|--------|-------|-------------|
@@ -42,7 +42,7 @@ As questões que foram propostas são as seguintes:
 | F | V | V  | F  | F   | V      | V     | V           |
 | F | F | V  | V  | F   | V      | V     | V           |
 
-(II) $$\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$$
+(II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$
 
 | p | q | ¬p | ¬q | p∨q | ¬(p∨q) | ¬p∧¬q | ¬(p∨q)↔¬p∧¬q |
 |---|---|----|----|-----|--------|-------|-------------|
@@ -51,7 +51,7 @@ As questões que foram propostas são as seguintes:
 | F | V | V  | F  | V   | F      | F     | V           |
 | F | F | V  | V  | F   | V      | V     | V           |
 
-(III) $$p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$$
+(III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$
 
 | p | q | ¬p | ¬q | p→q | ¬q→¬p | p→q↔¬q→¬p |
 |---|---|----|----|-----|-------|-----------|
@@ -62,7 +62,7 @@ As questões que foram propostas são as seguintes:
 
 ### Item B
 
-$$(p \land q) \Leftrightarrow (p \rightarrow \neg q)$$
+$(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 
 | p | q | ¬q | p∧q | p→¬q | (p∧q)↔(p→¬q) |
 |---|---|----|-----|------|-------------|
