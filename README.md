@@ -20,6 +20,7 @@ As questões que foram propostas são as seguintes:
 
 A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e (II) são as leis de DeMorgan e têm particular importância na computação.
 <br>
+<br>
     - (I) $\neg (p \land q) \Leftrightarrow \neg p \lor \neg q$  
     - (II) $\neg (p \lor q) \Leftrightarrow \neg p \land \neg q$ 
     <br>
@@ -27,6 +28,7 @@ A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e
     <br>
 
 B. Também utilizando tabelas verdade, prove que a expressão a seguir é uma contradição.
+<br>
 <br>
     - $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 
