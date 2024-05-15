@@ -26,7 +26,7 @@ A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e
     <br>
     - (III) $p \rightarrow q \Leftrightarrow \neg q \rightarrow \neg p$ 
     <br>
-
+    <br>
 B. Também utilizando tabelas verdade, prove que a expressão a seguir é uma contradição.
 <br>
 <br>
