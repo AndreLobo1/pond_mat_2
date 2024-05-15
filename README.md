@@ -27,6 +27,7 @@ A. Utilizando tabelas verdade, prove as seguintes equivalências. Os itens (I) e
     <br>
 
 B. Também utilizando tabelas verdade, prove que a expressão a seguir é uma contradição.
+<br>
     - $(p \land q) \Leftrightarrow (p \rightarrow \neg q)$
 
 ## Resoluções
